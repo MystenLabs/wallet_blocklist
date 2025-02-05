@@ -473,8 +473,6 @@
     "manager-dev.talentum.id",
     "dev.talentum.id",
     "app.talentum.id",
-    "project.talentum.id",
-    "monad.talentum.id",
-    "monad-project.talentum.id"
+    "project.talentum.id"
   ]
 }
