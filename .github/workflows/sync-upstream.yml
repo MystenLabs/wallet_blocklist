@@ -19,7 +19,6 @@ jobs:
       MYSTEN_SPREEDSHEET_ID: ${{ secrets.MYSTEN_SPREEDSHEET_ID }}
       BLOCKLISTS_URL: ${{ secrets.BLOCKLISTS_URL }}
       ALLOWLISTS_URL: ${{ secrets.ALLOWLISTS_URL }}
-      READ_ACCESS_TOKEN: ${{ secrets.READ_ACCESS_TOKEN }}
       SHOULD_FETCH_SHEET: "false"
 
 
@@ -34,9 +33,13 @@ jobs:
         run: pnpm install
 
       - name: Sync blocklists
+        env:
+          READ_ACCESS_TOKEN: ${{ secrets.READ_ACCESS_TOKEN }}
         run: pnpm sync-blocklists
 
       - name: Sync allowlists
+        env:
+          READ_ACCESS_TOKEN: ${{ secrets.READ_ACCESS_TOKEN }}
         run: pnpm sync-allowlists
       
       - name: Copy blocklists to src
