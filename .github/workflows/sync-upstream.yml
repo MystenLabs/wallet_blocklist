@@ -24,7 +24,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # Use the GitHub checkout action to checkout code
+        uses: actions/checkout@v5 # Use the GitHub checkout action to checkout code
 
       - uses: pnpm/action-setup@v4
         with:
