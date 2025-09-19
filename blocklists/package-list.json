@@ -18168,6 +18168,7 @@
     "suinetworks.app"
   ],
   "allowlist": [
+    "0x283dd8abcae0d643afaa0adfb70c1879774254ac31d67209e8ec0d384177d3e2",
     "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59",
     "0x9836eaafb402b7f10477c345ef57355d47b0174de0bcc7f6e1ec15505eba0c0d"
   ]
