@@ -518,6 +518,7 @@
     "0x403145583742b3a9892a6819fe6260856ed1ebcf1d9a64d8cc3f61ad4a0e4f7b::usdt::USDT",
     "0x405cfbd4054bba031f23bf2445479dbec0ec52e63f877134165dfcdde81a68e0::swavo_points::SWAVO_POINTS",
     "0x407780aebe2d10fc8fc40268e816e140c3ddc2a8ef342640a0eca72ef58cdd10::swavo_points::SWAVO_POINTS",
+    "0x4082ebfadd00c28150528e1f64f67b7413fbc8460056793616fef80abe7de0dc::usdt::USDT",
     "0x40c74ae2ef059dcd562e95a6967820cf6764cc417b83fa5a816e612fb9373a9d::USDC::USDC",
     "0x40c74ae2ef059dcd562e95a6967820cf6764cc417b83fa5a816e612fb9373a9d::USDT::USDT",
     "0x40d77dc33c27eeb6d80676c590b392051abd19086b2b37910b298a97538e0950::SuilendReward::SUILENDREWARD",
@@ -2099,6 +2100,7 @@
     "0xff87c579bfa83e98044ccbe1d4340ee2fc98d876127cebcb9ef3f18089fe6c02::USDT::USDT",
     "0xffd17b737ec3d39285f1fbde9289162dcdad29a7fa66ac8a2e8006bec4013a32::tether_usdt_sui::TETHER_USDT_SUI",
     "0xffdd5b4f84cd4d306d619f2a90c8698fc1e27cefa3b06a2aa31ce7eab4539e48::sui::SUI",
+    "0xffe20822aca1fe6ef3a00201671ea0f4bbd40680e7f22e61356f68405f9874af::usdt::USDT",
     "0xffeee794b11ec3b120da3d07c043e933fa677b24831dddbafca0b2d4ed642873::swavo_points::SWAVO_POINTS"
   ],
   "allowlist": [
