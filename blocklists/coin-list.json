@@ -2155,6 +2155,7 @@
     "0xff67a3dd8a7ed378da75226414a614db295724dc62e610d205ec96f04f579653::swavo_points::SWAVO_POINTS",
     "0xff75ffb5fd2b01ec7cde2d58e499cdf585813c5d376369634188110b2eeef7b4::ctx::CTX",
     "0xff87c579bfa83e98044ccbe1d4340ee2fc98d876127cebcb9ef3f18089fe6c02::USDT::USDT",
+    "0xffbde9fda50d1b894e909b79c222cf9b6f60197bbd81d7c5923ad6ed2df69cdf::usdc::USDC",
     "0xffd17b737ec3d39285f1fbde9289162dcdad29a7fa66ac8a2e8006bec4013a32::tether_usdt_sui::TETHER_USDT_SUI",
     "0xffdd5b4f84cd4d306d619f2a90c8698fc1e27cefa3b06a2aa31ce7eab4539e48::sui::SUI",
     "0xffe20822aca1fe6ef3a00201671ea0f4bbd40680e7f22e61356f68405f9874af::usdt::USDT",
