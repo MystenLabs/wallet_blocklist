@@ -1,5 +1,6 @@
 {
   "blocklist": [
+    "0x000afe01ef5ec7ac7876b96bc1c43fd85b77463e87493dbdabf6825b4ee64fad::usdt_::USDT_",
     "0x0043cc320f938ab6bf2a0ba205de94505c43e4bcd6360ce09e48d4ae0b0c3473::suirt::SUIRT",
     "0x0052a2760b476045fb8c382c2e49cff8fd9bc792fbdebc54c801774d3e27760a::swavo_points::SWAVO_POINTS",
     "0x005f87a6c1a3aa4f43ff805e9023bd882748714c042151ae7b36f7b41004764f::swavo_points::SWAVO_POINTS",
