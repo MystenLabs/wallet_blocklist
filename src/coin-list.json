@@ -2192,6 +2192,7 @@
     "0xffeee794b11ec3b120da3d07c043e933fa677b24831dddbafca0b2d4ed642873::swavo_points::SWAVO_POINTS"
   ],
   "allowlist": [
+    "0x35169bc93e1fddfcf3a82a9eae726d349689ed59e4b065369af8789fe59f8608::mmt::MMT",
     "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
     "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL",
     "0xb1b0650a8862e30e3f604fd6c5838bc25464b8d3d827fbd58af7cb9685b832bf::wwal::WWAL"
