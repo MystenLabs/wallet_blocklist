@@ -1,5 +1,6 @@
 {
   "allowlist": [
+    "storage.nodefleet.net",
     "wal.app",
     "wal.site"
   ]
