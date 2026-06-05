@@ -1,3 +1,7 @@
 {
-  "allowlist": []
+  "allowlist": [
+    "0x23ce2c0f0ba271968bc12357c4cf28805308e76fe73956f610c8708494fedd37",
+    "0x1d94aa32518d0cb00f9de6ed60d450c9a2090761f326752ffad06b2e9404f845",
+    "0x8ffda1a9c68e99cccacb6aa1de6fabac1b7b0f7826dfceb52b0a9eb56aa4452a"
+  ]
 }
