@@ -154,7 +154,6 @@
     "0x1003e923c23405c09fc3cda5bb63d882017a534fe48dce6d0d029672fa29e27f::swavo_points::SWAVO_POINTS",
     "0x1038ff83b90525a2e498cac50514103df4843d19f9249a2b3f99fa47fdaaf918::my_coin::MY_COIN",
     "0x1045d796806318664b8370fda39c7985bc347477f8a7fe2b82b247265c1ab1b6::swavo_points::SWAVO_POINTS",
-    "0x10757bb7cabc4f3773cc35bd10dd545dec2fe08dccfff685e5580663d0930af0::test_usdc::TEST_USDC",
     "0x10a992db13a2ad06d68f47ec2372ad9afc446856c4e81c8bf107f8369aaab396::swavo_points::SWAVO_POINTS",
     "0x110e7d38200e665cb50c3ed14145f3a493ff44abf39bc543205e2c49561abe2b::privatecoin::PRIVATECOIN",
     "0x1127e6cf71d7310ddacc92bd3874ffc7dc0aab94dd124bb36f0b503e35ffc33f::swavo_points::SWAVO_POINTS",
@@ -2366,6 +2365,7 @@
     "0xffeee794b11ec3b120da3d07c043e933fa677b24831dddbafca0b2d4ed642873::swavo_points::SWAVO_POINTS"
   ],
   "allowlist": [
+    "0x10757bb7cabc4f3773cc35bd10dd545dec2fe08dccfff685e5580663d0930af0::test_usdc::TEST_USDC",
     "0x35169bc93e1fddfcf3a82a9eae726d349689ed59e4b065369af8789fe59f8608::mmt::MMT",
     "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
     "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL",
