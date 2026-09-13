@@ -1,6 +1,6 @@
 {
   "allowlist": [
-    "wal.app",
-    "wal.site"
+    "staging.gravemint.io",
+    "gravemint.io"
   ]
 }
