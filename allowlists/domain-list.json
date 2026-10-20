@@ -1,6 +1,8 @@
 {
   "allowlist": [
     "wal.app",
-    "wal.site"
+    "wal.site",
+    "suifun.io",
+    "www.suifun.io"
   ]
 }
